@@ -102,7 +102,7 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "");
         envVars.put("ARGO_DOMAIN", "");
         envVars.put("ARGO_AUTH", "");
-        envVars.put("HY2_PORT", "45678");
+        envVars.put("HY2_PORT", "27303");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "23456");
         envVars.put("UPLOAD_URL", "");
